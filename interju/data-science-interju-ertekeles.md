@@ -45,28 +45,28 @@ Olyan szakemberré szeretnék válni, aki magabiztosan felmér egy problémát, 
 
 ### Motiváció
 
-A hallgató motivációja több, egymást erősítő forrásból áll. Egyrészt szeretné kiegészíteni közgazdasági tudását statisztikai és modellezési ismeretekkel. Másrészt a kurzusnak közvetlen gyakorlati célja van számára: segítséget nyújthat a szakdolgozata elkészítéséhez. Emellett hosszabb távon gazdasági vagy üzleti adatelemzőként szeretne elhelyezkedni.
+A hallgató motivációja több, egymást erősítő forrásból áll. Elsődleges célja közgazdasági tudásának kiegészítése statisztikai és modellezési ismeretekkel. A kurzust azért is tartja fontosnak, mert közvetlen segítséget nyújthat szakdolgozata elkészítéséhez. Hosszabb távon gazdasági vagy üzleti adatelemzői pályán szeretne elhelyezkedni.
 
-Ez belső és külső motivációt is jelent. Belső motivációját a modellek működésének megértése és a gazdasági-társadalmi jelenségek vizsgálata adja. A külső, konkrét célokat a szakdolgozat, egy saját elemzési projekt és az elemzői pálya jelenti. Céljai ezért nem általánosak, hanem jól kapcsolódnak egy aktuális kutatási témához és egy lehetséges karrierirányhoz.
+A hallgató motivációja belső és külső elemeket egyaránt tartalmaz. Belső érdeklődését a modellek működésének megértése és a gazdasági-társadalmi jelenségek vizsgálata adja. Konkrét külső céljai közé tartozik a szakdolgozat elkészítése, egy saját elemzési projekt megvalósítása és az elemzői pálya megalapozása. Céljai ezért nem általánosak, hanem jól kapcsolódnak egy aktuális kutatási témához és egy lehetséges karrierirányhoz.
 
 ### Erősségek
 
 - **Közgazdasági szemlélet:** képes gazdasági és társadalmi összefüggésekben gondolkodni.
 - **Kutatási érdeklődés:** konkrét szakdolgozati témával és összehasonlító kutatási kérdéssel rendelkezik.
 - **Módszertani kíváncsiság:** nemcsak használni szeretné a modelleket, hanem meg is szeretné érteni a működésüket.
-- **Gyakorlati célorientáltság:** a tanultakat saját projekten és a szakdolgozatban is alkalmazná.
-- **Döntéstámogató szemlélet:** az elemzést végső soron adatvezérelt, megalapozott döntések szolgálatába szeretné állítani.
+- **Gyakorlati célorientáltság:** a tanultakat saját projekten és a szakdolgozatban is alkalmazni kívánja.
+- **Döntéstámogató szemlélet:** az elemzést végső soron adatvezérelt, megalapozott döntések szolgálatába kívánja állítani.
 - **Kommunikációs tudatosság:** felismeri, hogy egy elemzés akkor igazán értékes, ha az eredményei mások számára is érthetők.
 
 ### Fejlesztendő területek
 
-A legfontosabb fejlesztési területe a programozási eszközök magabiztos használata. Ennek fejlesztésére érdemes rendszeresen kisebb, önálló feladatokat megoldania, például adatok betöltését, tisztítását, egyszerű vizualizációk elkészítését és alapmodellek futtatását.
+A legfontosabb fejlesztési területe a programozási eszközök magabiztos használata. Ezen a területen rendszeres, kisebb önálló feladatok megoldásával fejlődhet, például adatok betöltésével, tisztításával, egyszerű vizualizációk elkészítésével és alapmodellek futtatásával.
 
 További fontos terület a módszertani tudatosság: egy modell kiválasztásakor nemcsak azt kell megvizsgálni, hogy technikailag működik-e, hanem azt is, hogy illeszkedik-e a kutatási kérdéshez, az adatokhoz és az értelmezés céljához. Az energiaválság vizsgálatánál különösen lényeges lesz az időbeli összehasonlíthatóság, az adatok minősége és a korreláció, illetve az oksági kapcsolat megkülönböztetése.
 
 ### Mit lehet vele kezdeni szakmailag?
 
-A válaszok alapján olyan hallgató, akit érdemes gazdasági és társadalmi adatokkal kapcsolatos elemzési feladatokba bevonni. Különösen alkalmas lehet olyan projektekre, ahol szükség van:
+A válaszok alapján a hallgató olyan elemzési feladatokba vonható be eredményesen, amelyek gazdasági és társadalmi adatok feldolgozását igénylik. Különösen alkalmas lehet olyan projektekre, ahol szükség van:
 
 - gazdasági problémák pontos megfogalmazására;
 - makrogazdasági adatok rendszerezésére és összehasonlítására;
@@ -78,6 +78,6 @@ Jó irány lehet számára egy kutatási asszisztensi, gazdasági adatelemzői, 
 
 ### Összegzés
 
-A Data Science kurzushoz való hozzáállása célorientált és szakmailag megalapozott. Nem önmagában a programozás vagy a modellezés érdekli, hanem az, hogy ezek segítségével valós gazdasági és társadalmi kérdésekre adjon jobb válaszokat. A szakdolgozati témája konkrét alkalmazási lehetőséget kínál, miközben hosszabb távú célja egy gazdasági vagy üzleti adatelemzői pálya.
+A hallgató Data Science kurzushoz való hozzáállása célorientált és szakmailag megalapozott. Nem önmagában a programozás vagy a modellezés érdekli, hanem az, hogy ezek segítségével valós gazdasági és társadalmi kérdésekre adjon jobb válaszokat. Szakdolgozati témája konkrét alkalmazási lehetőséget kínál, miközben hosszabb távú célja egy gazdasági vagy üzleti adatelemzői pálya.
 
-A legfontosabb következő lépés számára a programozási rutin folyamatos építése, valamint egy olyan saját projekt elkészítése, amely végigvezeti az elemzési folyamat minden szakaszán: a kérdés megfogalmazásától az adatok előkészítésén és a modellalkotáson át az eredmények értelmezéséig és kommunikációjáig.
+A hallgató számára a legfontosabb következő lépés a programozási rutin folyamatos építése, valamint egy olyan saját projekt elkészítése, amely végigvezeti az elemzési folyamat minden szakaszán: a kérdés megfogalmazásától az adatok előkészítésén és a modellalkotáson át az eredmények értelmezéséig és kommunikációjáig.
