@@ -45,28 +45,28 @@ Olyan szakemberré szeretnék válni, aki magabiztosan felmér egy problémát, 
 
 ### Motiváció
 
-A motivációm több, egymást erősítő forrásból áll. Egyrészt szeretném kiegészíteni a közgazdasági tudásomat statisztikai és modellezési ismeretekkel. Másrészt a kurzusnak közvetlen gyakorlati célja van: segítséget nyújthat a szakdolgozatom elkészítéséhez. Emellett hosszabb távon gazdasági vagy üzleti adatelemzőként szeretnék elhelyezkedni.
+A hallgató motivációja több, egymást erősítő forrásból áll. Egyrészt szeretné kiegészíteni közgazdasági tudását statisztikai és modellezési ismeretekkel. Másrészt a kurzusnak közvetlen gyakorlati célja van számára: segítséget nyújthat a szakdolgozata elkészítéséhez. Emellett hosszabb távon gazdasági vagy üzleti adatelemzőként szeretne elhelyezkedni.
 
-Ez belső és külső motivációt is jelent. A belső motivációt a modellek működésének megértése és a gazdasági-társadalmi jelenségek vizsgálata adja. A külső, konkrét célokat a szakdolgozat, egy saját elemzési projekt és az elemzői pálya jelenti. A célok ezért nem általánosak, hanem jól kapcsolódnak egy aktuális kutatási témához és egy lehetséges karrierirányhoz.
+Ez belső és külső motivációt is jelent. Belső motivációját a modellek működésének megértése és a gazdasági-társadalmi jelenségek vizsgálata adja. A külső, konkrét célokat a szakdolgozat, egy saját elemzési projekt és az elemzői pálya jelenti. Céljai ezért nem általánosak, hanem jól kapcsolódnak egy aktuális kutatási témához és egy lehetséges karrierirányhoz.
 
 ### Erősségek
 
-- **Közgazdasági szemlélet:** képes vagyok gazdasági és társadalmi összefüggésekben gondolkodni.
-- **Kutatási érdeklődés:** van konkrét szakdolgozati témám és összehasonlító kutatási kérdésem.
-- **Módszertani kíváncsiság:** nemcsak használni szeretném a modelleket, hanem megérteni a működésüket is.
-- **Gyakorlati célorientáltság:** a tanultakat saját projekten és a szakdolgozatban is alkalmaznám.
-- **Döntéstámogató szemlélet:** az elemzést végső soron adatvezérelt, megalapozott döntések szolgálatába szeretném állítani.
-- **Kommunikációs tudatosság:** felismerem, hogy egy elemzés akkor igazán értékes, ha az eredményei mások számára is érthetők.
+- **Közgazdasági szemlélet:** képes gazdasági és társadalmi összefüggésekben gondolkodni.
+- **Kutatási érdeklődés:** konkrét szakdolgozati témával és összehasonlító kutatási kérdéssel rendelkezik.
+- **Módszertani kíváncsiság:** nemcsak használni szeretné a modelleket, hanem meg is szeretné érteni a működésüket.
+- **Gyakorlati célorientáltság:** a tanultakat saját projekten és a szakdolgozatban is alkalmazná.
+- **Döntéstámogató szemlélet:** az elemzést végső soron adatvezérelt, megalapozott döntések szolgálatába szeretné állítani.
+- **Kommunikációs tudatosság:** felismeri, hogy egy elemzés akkor igazán értékes, ha az eredményei mások számára is érthetők.
 
 ### Fejlesztendő területek
 
-A legfontosabb fejlesztési terület a programozási eszközök magabiztos használata. Ennek fejlesztésére érdemes rendszeresen kisebb, önálló feladatokat megoldani, például adatok betöltését, tisztítását, egyszerű vizualizációk elkészítését és alapmodellek futtatását.
+A legfontosabb fejlesztési területe a programozási eszközök magabiztos használata. Ennek fejlesztésére érdemes rendszeresen kisebb, önálló feladatokat megoldania, például adatok betöltését, tisztítását, egyszerű vizualizációk elkészítését és alapmodellek futtatását.
 
 További fontos terület a módszertani tudatosság: egy modell kiválasztásakor nemcsak azt kell megvizsgálni, hogy technikailag működik-e, hanem azt is, hogy illeszkedik-e a kutatási kérdéshez, az adatokhoz és az értelmezés céljához. Az energiaválság vizsgálatánál különösen lényeges lesz az időbeli összehasonlíthatóság, az adatok minősége és a korreláció, illetve az oksági kapcsolat megkülönböztetése.
 
-### Mit lehet velem kezdeni szakmailag?
+### Mit lehet vele kezdeni szakmailag?
 
-A válaszok alapján olyan hallgató vagyok, akit érdemes gazdasági és társadalmi adatokkal kapcsolatos elemzési feladatokba bevonni. Különösen alkalmas lehetek olyan projektekre, ahol szükség van:
+A válaszok alapján olyan hallgató, akit érdemes gazdasági és társadalmi adatokkal kapcsolatos elemzési feladatokba bevonni. Különösen alkalmas lehet olyan projektekre, ahol szükség van:
 
 - gazdasági problémák pontos megfogalmazására;
 - makrogazdasági adatok rendszerezésére és összehasonlítására;
@@ -74,10 +74,10 @@ A válaszok alapján olyan hallgató vagyok, akit érdemes gazdasági és társa
 - elemzési eredmények közérthető bemutatására;
 - adatvezérelt döntés-előkészítésre.
 
-Jó irány lehet számomra egy kutatási asszisztensi, gazdasági adatelemzői, üzleti elemzői vagy közpolitikai elemzői szerep. A közgazdasági háttér és a Data Science-ismeretek együtt olyan kombinációt adhatnak, amelyben nemcsak technikai feladatokat tudok elvégezni, hanem a számok mögötti gazdasági jelentést is képes lehetek értelmezni.
+Jó irány lehet számára egy kutatási asszisztensi, gazdasági adatelemzői, üzleti elemzői vagy közpolitikai elemzői szerep. A közgazdasági háttér és a Data Science-ismeretek együtt olyan kombinációt adhatnak, amelyben nemcsak technikai feladatokat tud elvégezni, hanem a számok mögötti gazdasági jelentést is képes értelmezni.
 
 ### Összegzés
 
-A Data Science kurzushoz való hozzáállásom célorientált és szakmailag megalapozott. Nem önmagában a programozás vagy a modellezés érdekel, hanem az, hogy ezek segítségével valós gazdasági és társadalmi kérdésekre adjak jobb válaszokat. A szakdolgozati témám konkrét alkalmazási lehetőséget kínál, miközben hosszabb távú célom egy gazdasági vagy üzleti adatelemzői pálya.
+A Data Science kurzushoz való hozzáállása célorientált és szakmailag megalapozott. Nem önmagában a programozás vagy a modellezés érdekli, hanem az, hogy ezek segítségével valós gazdasági és társadalmi kérdésekre adjon jobb válaszokat. A szakdolgozati témája konkrét alkalmazási lehetőséget kínál, miközben hosszabb távú célja egy gazdasági vagy üzleti adatelemzői pálya.
 
-A legfontosabb következő lépés a programozási rutin folyamatos építése, valamint egy olyan saját projekt elkészítése, amely végigvezet az elemzési folyamat minden szakaszán: a kérdés megfogalmazásától az adatok előkészítésén és a modellalkotáson át az eredmények értelmezéséig és kommunikációjáig.
+A legfontosabb következő lépés számára a programozási rutin folyamatos építése, valamint egy olyan saját projekt elkészítése, amely végigvezeti az elemzési folyamat minden szakaszán: a kérdés megfogalmazásától az adatok előkészítésén és a modellalkotáson át az eredmények értelmezéséig és kommunikációjáig.
