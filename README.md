@@ -31,4 +31,20 @@ This repository will serve as a place to store notes, exercises, experiments, an
 
 ---
 
+## Bináris klasszifikációs házi
+
+A `4. órai házik + klasszifikátor/global_house_purchase_classifier.ipynb`
+notebook a `4. órai házik + klasszifikátor/global_house_purchase_dataset_clean.csv`
+adaton végzi el a teljes,
+szivárgásmentes bináris klasszifikációs folyamatot: EDA, tisztítás,
+train/test split, baseline- és fa-alapú modellek, feature engineering,
+hangolás, PR-AUC-alapú értékelés és bootstrap bizonytalansági intervallum.
+
+Futtatás:
+
+```powershell
+pip install -r "4. órai házik + klasszifikátor/classifier_requirements.txt"
+jupyter notebook "4. órai házik + klasszifikátor/global_house_purchase_classifier.ipynb"
+```
+
 This README reflects my current goals and expectations as I move forward in the course and use the material to support my academic development.
