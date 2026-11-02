@@ -39,6 +39,11 @@ adaton végzi el a teljes,
 szivárgásmentes bináris klasszifikációs folyamatot: EDA, tisztítás,
 train/test split, baseline- és fa-alapú modellek, feature engineering,
 hangolás, PR-AUC-alapú értékelés és bootstrap bizonytalansági intervallum.
+A modellből szándékosan kimarad a `property_id` azonosító, valamint a
+gyanúsan célváltozóhoz kötődő `satisfaction_score` és
+`legal_cases_on_property`; így a modell csak olyan változókból tanul, amelyek
+kevésbé kockáztatják a célváltozó szivárgását. A felosztás a tanári példában
+is szereplő stratifikált 80/20 arányt követi.
 A notebook kezdőknek szóló magyarázatokat, több értelmezett EDA-ábrát és
 saját bemeneti lakásadat klasszifikálására használható példát is tartalmaz.
 A notebook futtatott kimenetekkel van elmentve, ezért az EDA-ábrák,
