@@ -41,6 +41,8 @@ train/test split, baseline- és fa-alapú modellek, feature engineering,
 hangolás, PR-AUC-alapú értékelés és bootstrap bizonytalansági intervallum.
 A notebook kezdőknek szóló magyarázatokat, több értelmezett EDA-ábrát és
 saját bemeneti lakásadat klasszifikálására használható példát is tartalmaz.
+A notebook futtatott kimenetekkel van elmentve, ezért az EDA-ábrák,
+modell-összehasonlítások, PR-görbe és eredménytáblák közvetlenül megtekinthetők.
 
 Futtatás:
 
