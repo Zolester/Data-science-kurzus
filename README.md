@@ -56,4 +56,22 @@ pip install -r "4. órai házik/klasszifikátor - Random Forest (frissített)/cl
 jupyter notebook "4. órai házik/klasszifikátor - Random Forest (frissített)/global_house_purchase_classifier.ipynb"
 ```
 
+## Végső projekt: használt autók árának előrejelzése
+
+A `final project/car_sales_eda.ipynb` notebook egy teljes mini kutatás a
+`final project/car_sales_data.csv` adaton (50 000 autóeladás): kutatási kérdések
+és hipotézisek, adatforrás, EDA, adattisztítás, zárolt teszthalmaz, baseline-ok
+(átlag, naiv szabály, tisztességes lineáris modell), döntési fa, Random Forest és
+gradient boosting ugyanazokon az 5 foldon, out-of-fold diagnosztika, egy
+dokumentált visszacsatolási kör (évi futásteljesítmény mint új jellemző), egyszeri
+záró teszt bootstrap-intervallummal, korlátok és összegzés.
+A notebook futtatott kimenetekkel van elmentve.
+
+Futtatás:
+
+```powershell
+pip install -r "final project/requirements.txt"
+jupyter notebook "final project/car_sales_eda.ipynb"
+```
+
 This README reflects my current goals and expectations as I move forward in the course and use the material to support my academic development.
